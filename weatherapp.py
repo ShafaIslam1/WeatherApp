@@ -98,7 +98,7 @@ class MyWeather:
 
 
 
-#oni
+
 
 root=Tk()
 Obj=MyWeather(root)
